@@ -1,8 +1,8 @@
-# Trabalho em Grupo - SANTANDER CODERS 2024
+# Projeto em Grupo - SANTANDER CODERS 2024
 
-- Trabalho em grupo feito ao longo do módulo de Lógica de Programação na formação Santander Coders 2024 (Trilha de Front-end).
+- Projeto em grupo realizado ao longo do módulo de Lógica de Programação com JS na formação Desenvolvimento Front-end do Santander Coders 2024.
 
-## Participantes do grupo
+## Participantes do projeto
 
 - [Daniel Mariz](https://github.com/danielmrz-dev)
 - [Felipe Garrido](https://github.com/fgarrido-dev)
@@ -12,7 +12,7 @@
 ## Professor
 - [Bruno Cabral](https://github.com/bruno88cabral)
 
-# Descrição do exercício - Lista de supermercado
+# Descrição do projeto - Lista de supermercado
 
 Desenvolver, utilizando os conceitos abordados ao longo do módulo, uma aplicação de lista de supermercado.
 
