@@ -1,4 +1,4 @@
-# Projeto em Grupo - SANTANDER CODERS 2024
+# Projeto em Grupo - Santander Coders 2024
 
 - Projeto em grupo realizado ao longo do módulo de Lógica de Programação com JS na formação Desenvolvimento Front-end do Santander Coders 2024.
 
