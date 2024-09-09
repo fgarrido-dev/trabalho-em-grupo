@@ -36,7 +36,7 @@ Não haverá a persistência dos itens da lista de supermercado em banco de dado
 
 ![](assets/screenshot.png)
 
-[Link do Deploy](https://danielmrz-dev.github.io/trabalho-em-grupo/)
+[Link do Deploy](https://fgarrido-dev.github.io/trabalho-em-grupo/)
 
 ## Tecnologias utilizadas
 
