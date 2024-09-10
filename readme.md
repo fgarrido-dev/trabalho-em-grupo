@@ -1,6 +1,6 @@
-## Projeto em Grupo - Santander Coders 2024
+## Santander Coders 2024 | Módulo 2 - Lógica de Programação com JS | Projeto: Aplicação Lista de Supermercado
 
-- Projeto em grupo realizado ao longo do módulo de Lógica de Programação com JS na formação Desenvolvimento Front-end do Santander Coders 2024.
+- Projeto em grupo realizado ao final do módulo de Lógica de Programação com JS na formação Desenvolvimento Front-end do Santander Coders 2024.
 
 ## Participantes do projeto
 
